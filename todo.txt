@@ -1,0 +1,22 @@
+Things to rework after competition:
+
+- Entity System
+- Collision System
+
+Things to do:
+
+- Fix horrible wall teleportation bug
+- Fix spiderman bug
+- Fix invisible ledges
+- Add kill on collide (DONE)
+- Implement reasonable AI pathfinding
+- Add jumping
+- Improve UI (add title screen etc.)
+- Allow player to finish game (DONDE)
+- Improve map
+- Add sound effects (DONE)
+
+Things to do long term:
+
+- Pixel-perfect collisions
+- Better map loading (w/ collision layer)
